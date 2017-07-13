@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Sacramento', cursive; font-size: 65px; color:#39073a;
+}
+body {
+  background: linear-gradient(#acd5ff, #e5d0ff);font-family: 'Zilla Slab', serif; font-size: 27px; color:#39073a;
+}
+h3 {
+  font-family: 'Roboto Slab', serif; font-size: 40px; color:#39073a;
+  }
+img {
+  height: 500px;
+  width: 650px;
+
+}
